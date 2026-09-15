@@ -3,6 +3,7 @@
     "attachment_uuid": "3cd7307f-e735-471b-90be-adeae6ed6d33",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/3cd7307f-e735-471b-90be-adeae6ed6d33-1000101713.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/3cd7307f-e735-471b-90be-adeae6ed6d33-1000101713.webp",
     "bytes": 15112
@@ -11,6 +12,7 @@
     "attachment_uuid": "1a7a989f-a1e7-4b48-9e86-a6dac4f04ee8",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/1a7a989f-a1e7-4b48-9e86-a6dac4f04ee8-网络对战.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/1a7a989f-a1e7-4b48-9e86-a6dac4f04ee8-网络对战.webp",
     "bytes": 58842
@@ -19,6 +21,7 @@
     "attachment_uuid": "8bc0e2d2-35e4-4067-b361-9b396eed9576",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/8bc0e2d2-35e4-4067-b361-9b396eed9576-最小系统.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/8bc0e2d2-35e4-4067-b361-9b396eed9576-最小系统.webp",
     "bytes": 92416
@@ -27,6 +30,7 @@
     "attachment_uuid": "61bc01b9-d7df-4deb-b360-35cb7534d628",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/61bc01b9-d7df-4deb-b360-35cb7534d628-61bc01b9-d7df-4deb-b360-35cb7534d628.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/61bc01b9-d7df-4deb-b360-35cb7534d628-61bc01b9-d7df-4deb-b360-35cb7534d628.webp",
     "bytes": 62912
@@ -35,6 +39,7 @@
     "attachment_uuid": "6be641b2-5ef0-4d5c-a335-1987a9d7d67d",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/6be641b2-5ef0-4d5c-a335-1987a9d7d67d-6be641b2-5ef0-4d5c-a335-1987a9d7d67d.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/6be641b2-5ef0-4d5c-a335-1987a9d7d67d-6be641b2-5ef0-4d5c-a335-1987a9d7d67d.webp",
     "bytes": 22802
@@ -43,6 +48,7 @@
     "attachment_uuid": "77e7dfc5-aba6-4671-be4b-b05b2a77b362",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/77e7dfc5-aba6-4671-be4b-b05b2a77b362-30236eb8bad48ef5c68060ca90febc68.jpg",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/77e7dfc5-aba6-4671-be4b-b05b2a77b362-30236eb8bad48ef5c68060ca90febc68.jpg",
     "bytes": 46987
@@ -51,6 +57,7 @@
     "attachment_uuid": "467907e2-0930-45a4-81ad-8abeeffb67aa",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/467907e2-0930-45a4-81ad-8abeeffb67aa-467907e2-0930-45a4-81ad-8abeeffb67aa.png",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/467907e2-0930-45a4-81ad-8abeeffb67aa-467907e2-0930-45a4-81ad-8abeeffb67aa.png",
     "bytes": 43805
@@ -59,6 +66,7 @@
     "attachment_uuid": "db6b0f85-924e-41a9-be73-f6d553a83503",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/db6b0f85-924e-41a9-be73-f6d553a83503-Linux_线程池.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/db6b0f85-924e-41a9-be73-f6d553a83503-Linux_线程池.webp",
     "bytes": 22626
@@ -67,38 +75,34 @@
     "attachment_uuid": "3096007e-5709-40ed-804f-4749d951f223",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/3096007e-5709-40ed-804f-4749d951f223-1000101712.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/3096007e-5709-40ed-804f-4749d951f223-1000101712.webp",
     "bytes": 17386
   },
   {
     "attachment_uuid": "237d5974-4b76-4054-8d0e-8e7b0e954107",
-    "category": "misc",
-    "slug": null,
-    "github_path": "images/misc/237d5974-4b76-4054-8d0e-8e7b0e954107-1000101711.webp",
-    "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/237d5974-4b76-4054-8d0e-8e7b0e954107-1000101711.webp",
+    "category": "嵌入式软件开发/Post-stm32-stdlib",
+    "slug": "Post-stm32-stdlib",
+    "notion_category": "嵌入式软件开发",
+    "github_path": "images/嵌入式软件开发/Post-stm32-stdlib/237d5974-4b76-4054-8d0e-8e7b0e954107-1000101711.webp",
+    "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/嵌入式软件开发/Post-stm32-stdlib/237d5974-4b76-4054-8d0e-8e7b0e954107-1000101711.webp",
     "bytes": 30148
   },
   {
     "attachment_uuid": "fc5462a5-fc5f-4999-8e8a-61fb17dfeb57",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/fc5462a5-fc5f-4999-8e8a-61fb17dfeb57-fc5462a5-fc5f-4999-8e8a-61fb17dfeb57.png",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/fc5462a5-fc5f-4999-8e8a-61fb17dfeb57-fc5462a5-fc5f-4999-8e8a-61fb17dfeb57.png",
     "bytes": 70863
   },
   {
-    "attachment_uuid": "fbc85377-a556-47b4-836c-154dba704290",
-    "category": "covers",
-    "slug": null,
-    "github_path": "images/covers/fbc85377-a556-47b4-836c-154dba704290-微信图片_20250611170502.jpg",
-    "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/covers/fbc85377-a556-47b4-836c-154dba704290-微信图片_20250611170502.jpg",
-    "bytes": 39218
-  },
-  {
     "attachment_uuid": "76f4aaf8-054a-47d0-9a52-0fba7a856c4c",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/76f4aaf8-054a-47d0-9a52-0fba7a856c4c-即时通讯.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/76f4aaf8-054a-47d0-9a52-0fba7a856c4c-即时通讯.webp",
     "bytes": 56058
@@ -107,6 +111,7 @@
     "attachment_uuid": "b458b622-cfd2-4db7-b50d-e92b6c141d9b",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/b458b622-cfd2-4db7-b50d-e92b6c141d9b-LVGL-PC.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/b458b622-cfd2-4db7-b50d-e92b6c141d9b-LVGL-PC.webp",
     "bytes": 39578
@@ -115,6 +120,7 @@
     "attachment_uuid": "932dd108-6984-46e3-b5eb-68b56d5c3d81",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/932dd108-6984-46e3-b5eb-68b56d5c3d81-刷题.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/932dd108-6984-46e3-b5eb-68b56d5c3d81-刷题.webp",
     "bytes": 74680
@@ -123,6 +129,7 @@
     "attachment_uuid": "18a734c6-fef1-457b-93a3-ba0334c7132c",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/18a734c6-fef1-457b-93a3-ba0334c7132c-Mosquitto.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/18a734c6-fef1-457b-93a3-ba0334c7132c-Mosquitto.webp",
     "bytes": 52940
@@ -131,22 +138,25 @@
     "attachment_uuid": "0b7d72fd-8511-4063-99c4-5f780367514d",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/0b7d72fd-8511-4063-99c4-5f780367514d-蓝桥杯G431.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/0b7d72fd-8511-4063-99c4-5f780367514d-蓝桥杯G431.webp",
     "bytes": 24000
   },
   {
     "attachment_uuid": "04336cf3-c406-4ed5-beee-84fb7b17b5a8",
-    "category": "misc",
-    "slug": null,
-    "github_path": "images/misc/04336cf3-c406-4ed5-beee-84fb7b17b5a8-生成_AI_编译器插画.webp",
-    "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/04336cf3-c406-4ed5-beee-84fb7b17b5a8-生成_AI_编译器插画.webp",
+    "category": "心情随笔/Post-ai-engineering-claude-c-compiler-insights",
+    "slug": "Post-ai-engineering-claude-c-compiler-insights",
+    "notion_category": "心情随笔",
+    "github_path": "images/心情随笔/Post-ai-engineering-claude-c-compiler-insights/04336cf3-c406-4ed5-beee-84fb7b17b5a8-生成_AI_编译器插画.webp",
+    "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/心情随笔/Post-ai-engineering-claude-c-compiler-insights/04336cf3-c406-4ed5-beee-84fb7b17b5a8-生成_AI_编译器插画.webp",
     "bytes": 60900
   },
   {
     "attachment_uuid": "08cb644c-5183-4161-9d96-2f5108455fca",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/08cb644c-5183-4161-9d96-2f5108455fca-08cb644c-5183-4161-9d96-2f5108455fca.png",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/08cb644c-5183-4161-9d96-2f5108455fca-08cb644c-5183-4161-9d96-2f5108455fca.png",
     "bytes": 48153
@@ -155,22 +165,16 @@
     "attachment_uuid": "07fd0924-1be0-4483-8622-e91c877e453f",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/07fd0924-1be0-4483-8622-e91c877e453f-CAN.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/07fd0924-1be0-4483-8622-e91c877e453f-CAN.webp",
     "bytes": 40638
   },
   {
-    "attachment_uuid": "4c0af74a-0fc9-4510-9458-f7a2e16cd8bd",
-    "category": "covers",
-    "slug": null,
-    "github_path": "images/covers/4c0af74a-0fc9-4510-9458-f7a2e16cd8bd-2219f553c18e36ecb7dc839b06d9d33eb963eb86.webp",
-    "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/covers/4c0af74a-0fc9-4510-9458-f7a2e16cd8bd-2219f553c18e36ecb7dc839b06d9d33eb963eb86.webp",
-    "bytes": 175212
-  },
-  {
     "attachment_uuid": "dbabf5ff-75d4-4e0b-a034-31292bd00f31",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/dbabf5ff-75d4-4e0b-a034-31292bd00f31-C语言数据结构.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/dbabf5ff-75d4-4e0b-a034-31292bd00f31-C语言数据结构.webp",
     "bytes": 17644
@@ -179,6 +183,7 @@
     "attachment_uuid": "fb78a854-209a-4208-82a8-f27983068a7a",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/fb78a854-209a-4208-82a8-f27983068a7a-AD数模电.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/fb78a854-209a-4208-82a8-f27983068a7a-AD数模电.webp",
     "bytes": 144558
@@ -187,6 +192,7 @@
     "attachment_uuid": "198047e1-cb10-4913-acf7-8ecf61094b4e",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/198047e1-cb10-4913-acf7-8ecf61094b4e-image.png",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/198047e1-cb10-4913-acf7-8ecf61094b4e-image.png",
     "bytes": 53597
@@ -195,6 +201,7 @@
     "attachment_uuid": "b2d64a55-9a8c-49a0-b568-fadd6862184a",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/b2d64a55-9a8c-49a0-b568-fadd6862184a-Lora.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/b2d64a55-9a8c-49a0-b568-fadd6862184a-Lora.webp",
     "bytes": 43410
@@ -203,6 +210,7 @@
     "attachment_uuid": "54d2e1d1-b5ea-47f9-8379-c699802fbbcf",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/54d2e1d1-b5ea-47f9-8379-c699802fbbcf-1000110383.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/54d2e1d1-b5ea-47f9-8379-c699802fbbcf-1000110383.webp",
     "bytes": 261276
@@ -211,6 +219,7 @@
     "attachment_uuid": "4a702508-7fe6-4727-b56e-427077fb45f0",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/4a702508-7fe6-4727-b56e-427077fb45f0-4a702508-7fe6-4727-b56e-427077fb45f0.png",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/4a702508-7fe6-4727-b56e-427077fb45f0-4a702508-7fe6-4727-b56e-427077fb45f0.png",
     "bytes": 68002
@@ -219,6 +228,7 @@
     "attachment_uuid": "be6f9572-f4b6-4969-9579-167754fbeeec",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/be6f9572-f4b6-4969-9579-167754fbeeec-MAX30102.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/be6f9572-f4b6-4969-9579-167754fbeeec-MAX30102.webp",
     "bytes": 69804
@@ -227,6 +237,7 @@
     "attachment_uuid": "2ba6a063-b90e-4d7b-b5c1-1ad79b557b7a",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/2ba6a063-b90e-4d7b-b5c1-1ad79b557b7a-ESP32.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/2ba6a063-b90e-4d7b-b5c1-1ad79b557b7a-ESP32.webp",
     "bytes": 51406
@@ -235,6 +246,7 @@
     "attachment_uuid": "b7dfa507-9db7-44f1-9979-599419dc470f",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/b7dfa507-9db7-44f1-9979-599419dc470f-智能家居.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/b7dfa507-9db7-44f1-9979-599419dc470f-智能家居.webp",
     "bytes": 48670
@@ -243,6 +255,7 @@
     "attachment_uuid": "0cf95fd2-6032-4d5e-8587-76984e27f991",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/0cf95fd2-6032-4d5e-8587-76984e27f991-Test.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/0cf95fd2-6032-4d5e-8587-76984e27f991-Test.webp",
     "bytes": 38592
@@ -251,6 +264,7 @@
     "attachment_uuid": "c83f93d4-6783-47b0-b0de-e3fe614f4471",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/c83f93d4-6783-47b0-b0de-e3fe614f4471-linux网络编程.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/c83f93d4-6783-47b0-b0de-e3fe614f4471-linux网络编程.webp",
     "bytes": 21060
@@ -259,6 +273,7 @@
     "attachment_uuid": "5339060b-ac3c-4470-bd41-2d1f71c2b097",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/5339060b-ac3c-4470-bd41-2d1f71c2b097-5339060b-ac3c-4470-bd41-2d1f71c2b097.png",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/5339060b-ac3c-4470-bd41-2d1f71c2b097-5339060b-ac3c-4470-bd41-2d1f71c2b097.png",
     "bytes": 25383
@@ -267,6 +282,7 @@
     "attachment_uuid": "572abdf1-1df2-4db0-849e-99009398765f",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/572abdf1-1df2-4db0-849e-99009398765f-龙芯2k0300.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/572abdf1-1df2-4db0-849e-99009398765f-龙芯2k0300.webp",
     "bytes": 16766
@@ -275,6 +291,7 @@
     "attachment_uuid": "d2b86a3a-6884-4f65-a736-10a1d266d98f",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/d2b86a3a-6884-4f65-a736-10a1d266d98f-RTT.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/d2b86a3a-6884-4f65-a736-10a1d266d98f-RTT.webp",
     "bytes": 41432
@@ -283,6 +300,7 @@
     "attachment_uuid": "8f5bfedf-c04a-4591-b451-9cf083a58c68",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/8f5bfedf-c04a-4591-b451-9cf083a58c68-8f5bfedf-c04a-4591-b451-9cf083a58c68.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/8f5bfedf-c04a-4591-b451-9cf083a58c68-8f5bfedf-c04a-4591-b451-9cf083a58c68.webp",
     "bytes": 73662
@@ -291,6 +309,7 @@
     "attachment_uuid": "05de30ee-b084-46ee-a0bd-2b464ccb5f0d",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/05de30ee-b084-46ee-a0bd-2b464ccb5f0d-还没有配图.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/05de30ee-b084-46ee-a0bd-2b464ccb5f0d-还没有配图.webp",
     "bytes": 46108
@@ -299,6 +318,7 @@
     "attachment_uuid": "50de245b-ef57-48ea-9366-8fa9bbf6cbaf",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/50de245b-ef57-48ea-9366-8fa9bbf6cbaf-FreeRtos.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/50de245b-ef57-48ea-9366-8fa9bbf6cbaf-FreeRtos.webp",
     "bytes": 23386
@@ -307,6 +327,7 @@
     "attachment_uuid": "aca2bbd4-b36e-4f28-91fe-92530557619b",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/aca2bbd4-b36e-4f28-91fe-92530557619b-还没有配图.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/aca2bbd4-b36e-4f28-91fe-92530557619b-还没有配图.webp",
     "bytes": 46108
@@ -315,6 +336,7 @@
     "attachment_uuid": "732f3fc6-75eb-4145-808f-201c3a0596e2",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/732f3fc6-75eb-4145-808f-201c3a0596e2-梁山派.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/732f3fc6-75eb-4145-808f-201c3a0596e2-梁山派.webp",
     "bytes": 106110
@@ -323,6 +345,7 @@
     "attachment_uuid": "4ad17aab-7ce0-4ef3-9026-1ef1c4ddfc24",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/4ad17aab-7ce0-4ef3-9026-1ef1c4ddfc24-CH32.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/4ad17aab-7ce0-4ef3-9026-1ef1c4ddfc24-CH32.webp",
     "bytes": 45360
@@ -331,6 +354,7 @@
     "attachment_uuid": "1e6740a5-bc82-45e5-a44b-bb8fb8d7204c",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/1e6740a5-bc82-45e5-a44b-bb8fb8d7204c-还没有配图.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/1e6740a5-bc82-45e5-a44b-bb8fb8d7204c-还没有配图.webp",
     "bytes": 46108
@@ -339,6 +363,7 @@
     "attachment_uuid": "95198887-d124-4fb6-b23e-6e463e62da64",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/95198887-d124-4fb6-b23e-6e463e62da64-还没有配图.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/95198887-d124-4fb6-b23e-6e463e62da64-还没有配图.webp",
     "bytes": 46108
@@ -347,6 +372,7 @@
     "attachment_uuid": "7707a7ba-aca9-4296-8b90-68f6cba82277",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/7707a7ba-aca9-4296-8b90-68f6cba82277-connect.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/7707a7ba-aca9-4296-8b90-68f6cba82277-connect.webp",
     "bytes": 54590
@@ -355,6 +381,7 @@
     "attachment_uuid": "70326768-c745-48ae-b0d8-fff10ef3e5d7",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/70326768-c745-48ae-b0d8-fff10ef3e5d7-70326768-c745-48ae-b0d8-fff10ef3e5d7.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/70326768-c745-48ae-b0d8-fff10ef3e5d7-70326768-c745-48ae-b0d8-fff10ef3e5d7.webp",
     "bytes": 25460
@@ -363,6 +390,7 @@
     "attachment_uuid": "4d5a669a-4989-4fdf-9e19-8a835de05335",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/4d5a669a-4989-4fdf-9e19-8a835de05335-ESP8266.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/4d5a669a-4989-4fdf-9e19-8a835de05335-ESP8266.webp",
     "bytes": 83582
@@ -371,6 +399,7 @@
     "attachment_uuid": "a3c979da-72cc-42c7-8e71-0a56dcfdd636",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/a3c979da-72cc-42c7-8e71-0a56dcfdd636-Linux_IO_进程线程.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/a3c979da-72cc-42c7-8e71-0a56dcfdd636-Linux_IO_进程线程.webp",
     "bytes": 19200
@@ -379,22 +408,16 @@
     "attachment_uuid": "6fed212a-a852-469d-8d9d-76f793438b62",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/6fed212a-a852-469d-8d9d-76f793438b62-Csharp.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/6fed212a-a852-469d-8d9d-76f793438b62-Csharp.webp",
     "bytes": 19126
   },
   {
-    "attachment_uuid": "fb781b68-058b-4740-ac31-704cfa6f23c2",
-    "category": "covers",
-    "slug": null,
-    "github_path": "images/covers/fb781b68-058b-4740-ac31-704cfa6f23c2-微信图片_20250611170502.jpg",
-    "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/covers/fb781b68-058b-4740-ac31-704cfa6f23c2-微信图片_20250611170502.jpg",
-    "bytes": 39218
-  },
-  {
     "attachment_uuid": "19dc4240-35c6-4fee-a9c5-e6fb3a9ec548",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/19dc4240-35c6-4fee-a9c5-e6fb3a9ec548-NotionNext.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/19dc4240-35c6-4fee-a9c5-e6fb3a9ec548-NotionNext.webp",
     "bytes": 57188
@@ -403,8 +426,36 @@
     "attachment_uuid": "5092bf94-8dd4-441a-aae2-6915c63d9a43",
     "category": "misc",
     "slug": null,
+    "notion_category": null,
     "github_path": "images/misc/5092bf94-8dd4-441a-aae2-6915c63d9a43-Python.webp",
     "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/misc/5092bf94-8dd4-441a-aae2-6915c63d9a43-Python.webp",
     "bytes": 116058
+  },
+  {
+    "attachment_uuid": "fbc85377-a556-47b4-836c-154dba704290",
+    "category": "covers",
+    "slug": null,
+    "notion_category": null,
+    "github_path": "images/covers/fbc85377-a556-47b4-836c-154dba704290-微信图片_20250611170502.jpg",
+    "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/covers/fbc85377-a556-47b4-836c-154dba704290-微信图片_20250611170502.jpg",
+    "bytes": 39218
+  },
+  {
+    "attachment_uuid": "4c0af74a-0fc9-4510-9458-f7a2e16cd8bd",
+    "category": "covers",
+    "slug": null,
+    "notion_category": null,
+    "github_path": "images/covers/4c0af74a-0fc9-4510-9458-f7a2e16cd8bd-2219f553c18e36ecb7dc839b06d9d33eb963eb86.webp",
+    "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/covers/4c0af74a-0fc9-4510-9458-f7a2e16cd8bd-2219f553c18e36ecb7dc839b06d9d33eb963eb86.webp",
+    "bytes": 175212
+  },
+  {
+    "attachment_uuid": "fb781b68-058b-4740-ac31-704cfa6f23c2",
+    "category": "covers",
+    "slug": null,
+    "notion_category": null,
+    "github_path": "images/covers/fb781b68-058b-4740-ac31-704cfa6f23c2-微信图片_20250611170502.jpg",
+    "public_cdn_url": "https://cdn.jsdmirror.com/gh/LZJ-I/picx-images-hosting@main/images/covers/fb781b68-058b-4740-ac31-704cfa6f23c2-微信图片_20250611170502.jpg",
+    "bytes": 39218
   }
 ]
